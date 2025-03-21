@@ -1,7 +1,0 @@
-{
-  "youtubeApiKey": "YOUR_YOUTUBE_API_KEY",
-  "streamUrl": "rtmp://a.rtmp.youtube.com/live2/YOUR_STREAM_KEY",
-  "playlistUrl": "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID",
-  "imageRotationInterval": 20,
-  "videoResolution": "1280x720"
-}

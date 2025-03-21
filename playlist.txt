@@ -1,0 +1,3 @@
+file 'music/Nightcore - Stay (Lyrics).mp3'
+file 'music/Nightcore - For Life (Lyrics).mp3'
+file 'music/Flume ft. Vera Blue - Rushing Back (Ekko & Sidetrack Bootleg) (1).mp3'
